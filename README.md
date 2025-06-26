@@ -1,4 +1,4 @@
-# 🐍 Beginner Python Projects by Jashanarraich
+# 🐍 Beginner Python Projects by Jashanpreet Singh
 
 A collection of beginner-friendly Python projects built to practice and demonstrate core programming concepts like input/output, logic, loops, randomness, and string manipulation. Ideal for anyone getting started with Python!
 
