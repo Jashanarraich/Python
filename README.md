@@ -76,7 +76,7 @@ Encodes or decodes a message using Caesar Cipher logic.
 
 ---
 
-## 🔤 Hangman Game
+## 🄤 Hangman Game
 A terminal-based word guessing game with ASCII art visuals.
 
 **Features:**
@@ -111,6 +111,66 @@ Result: You found the treasure! You Win!
 
 ---
 
+## 🌟 Blind Auction Game
+A command-line blind auction where users bid anonymously and the highest bidder wins.
+
+**Features:**
+- Takes multiple bidder entries
+- Clears screen (via newlines) to keep bids secret
+- Determines highest bid and winner
+
+**Example:**
+```
+What is your name? Jashan
+Enter the amount you want to bid: $300
+Are there any other bidders? yes
+...
+The highest bidder is Jashan with the bid amount $300.
+```
+
+---
+
+## 📈 Calculator with Function Chaining
+Performs basic arithmetic operations and allows the user to chain calculations using previous results.
+
+**Features:**
+- Supports +, -, *, and /
+- Maps operations with dictionary
+- Loops for continued calculations
+
+**Example:**
+```
+What is the first number?: 10
++
+-
+*
+/
+Pick an operation: *
+What is the next number?: 3
+10 * 3 = 30
+```
+
+---
+
+## 🃏 Blackjack Game
+A simplified version of the Blackjack card game where the user plays against a computer dealer.
+
+**Features:**
+- Deals random cards
+- Handles Blackjack and Ace rules
+- Auto-plays computer hand
+- Declares winner based on rules
+
+**Example:**
+```
+Your cards: [10, 7], current score: 17
+Computer's first card: 9
+...
+You lose 😤
+```
+
+---
+
 ## 📦 How to Run
 Make sure you have Python installed. Run each `.py` file in your terminal or IDE like this:
 
@@ -125,4 +185,4 @@ These projects are for learning and personal use. Feel free to modify and share!
 
 ---
 
-> Created with ❤️ by Jashanarraich
+> Created with ❤️ by Jashanpreet Singh
