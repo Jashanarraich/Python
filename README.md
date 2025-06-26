@@ -141,10 +141,6 @@ Performs basic arithmetic operations and allows the user to chain calculations u
 **Example:**
 ```
 What is the first number?: 10
-+
--
-*
-/
 Pick an operation: *
 What is the next number?: 3
 10 * 3 = 30
@@ -167,6 +163,26 @@ Your cards: [10, 7], current score: 17
 Computer's first card: 9
 ...
 You lose 😤
+```
+
+---
+
+## 🎯 Number Guessing Game
+A number guessing game with difficulty options and feedback.
+
+**Features:**
+- Random number between 1 and 100
+- Easy (10 attempts) and Hard (5 attempts) modes
+- User feedback after each guess
+
+**Example:**
+```
+Welcome to the Number Guessing Game!
+I'm thinking of a number between 1 and 100.
+Choose a difficulty. Type 'easy' or 'hard': easy
+Make a guess: 50
+Too high.
+You have 9 attempts remaining.
 ```
 
 ---
